@@ -19,7 +19,7 @@
   Hi, I'm Anurag Asawa 
   <br>
   <br>
-  🔬 I'm currently student of ABV-IIITM Gwalior 
+  🔬 I'm currently student at ABV-IIITM Gwalior 
   <br>
    📚 I’m currently learning Blockchain development
   <br>
